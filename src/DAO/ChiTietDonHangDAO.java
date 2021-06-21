@@ -55,7 +55,7 @@ public static ArrayList<ChiTietDonHang> getListChiTietDonHang() {
 			Logger.getLogger(TaiKhoanDAO.class.getName()).log(Level.SEVERE, null, ex);
 		}
 		return false;
-		
+		// vừa thêm mới đoạn code
 	}
 
 }
